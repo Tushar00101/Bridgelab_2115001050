@@ -6,3 +6,4 @@ Read me file
 5. 24-01-2025 Reading arrays and string and practice some question of array assignment
 6. 25-01-2025 Uploading Assignment of arrays, reading topics about 2d arrays and practicing questions of it.
 7. 28-01-2025 Uploading Assignment of Methods, reading about algorithms and practice 2d questions and matrix problems.
+8. 30-01-2025 Uploading String Assignment, practice string and 2d array questions.
