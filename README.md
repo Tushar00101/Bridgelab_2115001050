@@ -19,3 +19,4 @@ Read me file
 18. 16-02-2025 uploading 04 and 05 Submission of Linear and Binary Search assignment
 19. 17-02-2025 uploading assignment of Best Practices for Runtime Analysis & Big O Notation
 20. 18-02-2025 uploading assignment of Generics
+21. 19-02-2024 uploading assignment and learn about generics class , methods and delgates
