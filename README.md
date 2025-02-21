@@ -21,3 +21,4 @@ Read me file
 20. 18-02-2025 uploading assignment of Generics
 21. 19-02-2024 uploading assignment and learn about generics class , methods and delgates
 22. 20-02-2025 uploading stream assignment
+23. 21-02-2025 uploading try catch assignment
