@@ -23,3 +23,4 @@ Read me file
 22. 20-02-2025 uploading stream assignment
 23. 21-02-2025 uploading try catch assignment
 24. 22-02-2025 uploading assignment of nunit and regular expression
+25. 24-02-2025 uploading assignment of annotation and reflection
