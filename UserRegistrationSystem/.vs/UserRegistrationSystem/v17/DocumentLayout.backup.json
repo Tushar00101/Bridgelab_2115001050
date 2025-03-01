@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpush\\Desktop\\#\\UserRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16166084-E66B-47AA-AB82-E7573AFAA03A}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\vpush\\desktop\\#\\modellayer\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Desktop\\#\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vpush\\Desktop\\#\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:21:26.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
