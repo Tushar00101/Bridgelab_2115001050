@@ -25,3 +25,4 @@ Read me file
 24. 22-02-2025 uploading assignment of nunit and regular expression
 25. 24-02-2025 uploading assignment of annotation and reflection
 26. 26-02-2025 uploading assignment of json format
+27. 1-03-2025 uploading project of registration user with nlog
