@@ -1,0 +1,64 @@
+2025-03-03 22:27:08.9326 | INFO | Application is starting... | 
+2025-03-03 22:27:10.9427 | INFO | Now listening on: https://localhost:7155 | 
+2025-03-03 22:27:10.9605 | INFO | Now listening on: http://localhost:5076 | 
+2025-03-03 22:27:11.0585 | INFO | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 22:27:11.0585 | INFO | Hosting environment: Development | 
+2025-03-03 22:27:11.0585 | INFO | Content root path: C:\Users\vpush\Documents\0irs\RepositoryLayer\RepositoryLayer\HelloApp\ | 
+2025-03-03 22:27:11.8216 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 22:27:12.2763 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 456.6183ms | 
+2025-03-03 22:27:12.2815 | INFO | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 22:27:12.2815 | INFO | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 22:27:12.2815 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 22:27:12.2815 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 11.3305ms | 
+2025-03-03 22:27:12.2974 | INFO | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 15.8013ms | 
+2025-03-03 22:27:12.3829 | INFO | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 101.2941ms | 
+2025-03-03 22:27:12.4563 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 22:27:12.4783 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 21.9606ms | 
+2025-03-03 22:29:19.0426 | INFO | Application is starting... | 
+2025-03-03 22:29:20.5704 | INFO | Now listening on: https://localhost:7155 | 
+2025-03-03 22:29:20.5854 | INFO | Now listening on: http://localhost:5076 | 
+2025-03-03 22:29:20.6772 | INFO | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 22:29:20.6772 | INFO | Hosting environment: Development | 
+2025-03-03 22:29:20.6772 | INFO | Content root path: C:\Users\vpush\Documents\0irs\RepositoryLayer\RepositoryLayer\HelloApp\ | 
+2025-03-03 22:29:21.4284 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 22:29:21.7376 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 311.7638ms | 
+2025-03-03 22:29:21.7515 | INFO | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 22:29:21.7515 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 22:29:21.7515 | INFO | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 22:29:21.7515 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.1863ms | 
+2025-03-03 22:29:21.7515 | INFO | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 5.0967ms | 
+2025-03-03 22:29:21.8139 | INFO | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 62.4511ms | 
+2025-03-03 22:29:21.8537 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 22:29:21.8586 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.9753ms | 
+2025-03-03 22:31:34.7000 | INFO | Application is starting... | 
+2025-03-03 22:31:36.1822 | INFO | Now listening on: https://localhost:7155 | 
+2025-03-03 22:31:36.1991 | INFO | Now listening on: http://localhost:5076 | 
+2025-03-03 22:31:36.3015 | INFO | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 22:31:36.3015 | INFO | Hosting environment: Development | 
+2025-03-03 22:31:36.3015 | INFO | Content root path: C:\Users\vpush\Documents\0irs\RepositoryLayer\RepositoryLayer\HelloApp\ | 
+2025-03-03 22:31:36.9365 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 22:31:37.2300 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 296.9136ms | 
+2025-03-03 22:31:37.2418 | INFO | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 22:31:37.2418 | INFO | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 22:31:37.2418 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 22:31:37.2418 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.6525ms | 
+2025-03-03 22:31:37.2418 | INFO | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 5.1916ms | 
+2025-03-03 22:31:37.3055 | INFO | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.7236ms | 
+2025-03-03 22:31:37.3447 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 22:31:37.3447 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.2388ms | 
+2025-03-03 22:32:43.0810 | INFO | Application is starting... | 
+2025-03-03 22:32:44.5678 | INFO | Now listening on: https://localhost:7155 | 
+2025-03-03 22:32:44.5884 | INFO | Now listening on: http://localhost:5076 | 
+2025-03-03 22:32:44.6893 | INFO | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 22:32:44.6893 | INFO | Hosting environment: Development | 
+2025-03-03 22:32:44.6893 | INFO | Content root path: C:\Users\vpush\Documents\0irs\RepositoryLayer\RepositoryLayer\HelloApp\ | 
+2025-03-03 22:32:45.4665 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 22:32:45.8096 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 346.0222ms | 
+2025-03-03 22:32:45.8291 | INFO | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 22:32:45.8291 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 22:32:45.8291 | INFO | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 22:32:45.8291 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 3.0146ms | 
+2025-03-03 22:32:45.8291 | INFO | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 6.8908ms | 
+2025-03-03 22:32:45.9114 | INFO | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 82.2082ms | 
+2025-03-03 22:32:45.9765 | INFO | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 22:32:45.9890 | INFO | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 12.4890ms | 
