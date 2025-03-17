@@ -26,3 +26,4 @@ Read me file
 25. 24-02-2025 uploading assignment of annotation and reflection
 26. 26-02-2025 uploading assignment of json format
 27. 1-03-2025 uploading project of registration user with nlog
+28. 17-02-2025 uploading assignment of JavaScript
